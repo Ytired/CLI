@@ -1,0 +1,30 @@
+{
+  "name": "yyj",
+  "version": "1.0.0",
+  "description": "我的cli工具",
+  "main": "index.js",
+  "bin": {
+    "yyj": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yyj",
+    "coderwhy",
+    "vuecli",
+    "vue"
+  ],
+  "author": "Yangyj",
+  "license": "MIT",
+  "homepage": "https://github.com/Ytired/CLI",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "log-symbols": "^4.0.0",
+    "open": "^8.0.8",
+    "ora": "^5.4.0"
+  }
+}
